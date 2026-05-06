@@ -1,0 +1,8 @@
+{
+  "deepikark296@gmail.com": {
+    "password": "scrypt:32768:8:1$asdA3BmnqtIappxg$f3147c428c1a0e3153cc0e90dd4ba4673a6258847a4eb273311a69abf38e1230e37035dda37f9a84fe4b17569a29d67ece01093fa6e7ff1ab71883eac1573482"
+  },
+  "test": {
+    "password": "scrypt:32768:8:1$z9GYvGErXTagWmUp$cabb5aa580b6e99d6aa1ba7d579b26607776b17f42bd1c2c435037f7a345bbce1e25014f3a2d573b61d62e1d666d3493bc183fc805b84eb25cff504571304b72"
+  }
+}
