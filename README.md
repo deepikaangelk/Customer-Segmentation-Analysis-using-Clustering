@@ -128,21 +128,20 @@ The K-Means algorithm is used to segment customers based on:
 
 ## 🔹 Login Page
 
-
+![Login Page](screenshots)
 
 ## 🔹 Dashboard Overview
 
-*Add your dashboard screenshot here*
+![ Dashboard](screenshots)
+
 
 ## 🔹 Customer Segmentation Graph
 
-*Add your clustering graph screenshot here*
+![Customer Segmentation Graph ](screenshots)
 
 ## 🔹 Spending Distribution Analysis
 
-*Add your chart screenshot here*
-
----
+![ Spending Distribution Analysis](screenshots)
 
 # ▶️ How to Run the Project
 
